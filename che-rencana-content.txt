@@ -5,5 +5,9 @@ RENCANA KONTENT CHE
   ^ Angular
   ^ React
 * hHH
+  ^ vue
+  ^ React
+-Main Bola
   ^ Laravel
 - kadal water
+- Python
