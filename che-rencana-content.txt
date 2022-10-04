@@ -3,5 +3,9 @@ RENCANA KONTENT CHE
 - Jerapah terbang
 * tulang sayap
 * hHH
+  ^ vue
+  ^ React
 -Main Bola
+  ^ Laravel
 - kadal water
+- Python
